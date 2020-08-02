@@ -1,0 +1,22 @@
+#leftbox { 
+  float:left;                
+  background:black; 
+  width:40%; 
+} 
+#middlebox{            
+  float:left;               
+  background:black; 
+  width:40%; 
+} 
+h1{ 
+  color:white; 
+  text-align:center; 
+}
+h5{
+  color:white; 
+  text-align:center;
+}
+p{
+  color:white;
+  margin: 10px;
+}            
