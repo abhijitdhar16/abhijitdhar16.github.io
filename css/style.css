@@ -1,12 +1,17 @@
-#leftbox { 
+#bigdiv{ 
   float:left;                
   background:black; 
-  width:40%; 
-} 
-#middlebox{            
-  float:left;               
+  width:50%; 
+}
+#smalldiv{ 
+  float:left;                
   background:black; 
-  width:40%; 
+  width:30%; 
+}
+#wide{ 
+  float:left;                
+  background:black; 
+  width:100%; 
 } 
 h1{ 
   color:white; 
@@ -18,5 +23,5 @@ h5{
 }
 p{
   color:white;
-  margin: 10px;
+  margin: 20px;
 }            
