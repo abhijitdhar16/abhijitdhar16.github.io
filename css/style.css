@@ -1,3 +1,6 @@
+#container{
+  width: 100%;
+}
 #bigdiv{ 
   float:left;                
   background:black; 
@@ -6,22 +9,43 @@
 #smalldiv{ 
   float:left;                
   background:black; 
-  width:30%; 
+  width:25%; 
 }
 #wide{ 
   float:left;                
   background:black; 
-  width:100%; 
-} 
+  width:100%;
+  padding-bottom: 10px;
+}
+ 
 h1{ 
   color:white; 
   text-align:center; 
 }
+
 h5{
   color:white; 
   text-align:center;
+  font-family:verdana,helvetica,arial;
 }
+
 p{
   color:white;
   margin: 20px;
-}            
+  font-family:verdana,arial,courier;
+}
+            
+.button {
+  background-color: orange;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size:16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  height: 50px;
+  width:150px
+}
