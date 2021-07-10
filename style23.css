@@ -1,0 +1,15 @@
+body{background-color:black; border:20px; border-color: blue; color:red; text-align: center; border-style:solid; border-radius:20px;border-width:5px; border-color:orange;}
+
+div{ 
+margin-top:15px; 
+}
+
+.image-selection{
+display: flex; 
+justify-content: center
+}
+.selection-style{ 
+margin-right: 25px;
+margin-left: 25px;
+border-color: aqua    
+}
